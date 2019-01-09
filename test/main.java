@@ -9,3 +9,4 @@ master fix
 duplicate commit 2
 
 after pushing other user trying to add my data
+other user data
